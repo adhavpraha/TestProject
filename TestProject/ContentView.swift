@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Commit from source tree-july2026 comtmit1")
+            Text("Commit from source tree-july2026 comtmitf1")
         }
         .padding()
     }
